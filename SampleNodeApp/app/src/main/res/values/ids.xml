@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="manu" type="id" />
+    <item name="mo" type="id" />
+    <item name="min" type="id" />
+    <item name="max" type="id" />
+    <item name="button" type="id" />
+    <item name="search" type="id" />
+</resources>
